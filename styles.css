@@ -187,7 +187,7 @@ ul {
 /* ---------- Navbar ---------- */
 .navbar {
     position: fixed;
-    top: 0;
+    top: 36px;
     left: 0;
     width: 100%;
     z-index: 1000;
@@ -196,6 +196,7 @@ ul {
 }
 
 .navbar.scrolled {
+    top: 0;
     background: rgba(10, 14, 23, 0.92);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
@@ -375,8 +376,11 @@ ul {
     padding: 8px 0;
     font-family: var(--font-accent);
     font-size: 0.78rem;
-    z-index: 1001;
-    position: relative;
+    z-index: 1002;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
     transition: var(--transition);
 }
 
@@ -3836,6 +3840,10 @@ ul {
 
     .top-bar {
         display: none;
+    }
+
+    .navbar {
+        top: 0;
     }
 
     .category-grid {
