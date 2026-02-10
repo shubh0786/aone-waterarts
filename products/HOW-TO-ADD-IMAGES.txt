@@ -1,0 +1,74 @@
+====================================================
+  HOW TO ADD YOUR REAL PRODUCT IMAGES
+====================================================
+
+The website is set up to use images from this folder.
+Follow these steps to add your real product photos:
+
+1. Go to your IndiaMART page: https://www.indiamart.com/aonewaterarts/
+2. Right-click on each product image > "Save Image As"
+3. Save them in THIS folder with these exact filenames:
+
+CATEGORY IMAGES (for "What We Specialize In" section):
+------------------------------------------------------
+  category-water-fountain.jpg
+  category-musical-fountain.jpg
+  category-jet-fountain.jpg
+  category-glass-fountain.jpg
+  category-wall-waterfall.jpg
+  category-swimming-pool.jpg
+  category-pool-light.jpg
+  category-pool-filter.jpg
+  category-indoor-fountain.jpg
+  category-waterfall-fountain.jpg
+
+PRODUCT IMAGES (for individual product cards):
+----------------------------------------------
+  foam-bubble-fountain.jpg
+  decorative-water-fountain.jpg
+  garden-water-fountain.jpg
+  mountain-sharp-fountain.jpg
+  colored-musical-fountain.jpg
+  water-park-musical-fountain.jpg
+  wall-water-sheet-fountain.jpg
+  dancing-water-fountain.jpg
+  round-water-fountain.jpg
+  handmade-water-fountain.jpg
+  outdoor-water-fountain.jpg
+  bubble-water-fountain.jpg
+  ss-fountain-cascade.jpg
+  frp-water-fountain.jpg
+  water-carton-fountain.jpg
+  outdoor-waterfall-fountain.jpg
+  dancing-fountains.jpg
+  garden-fountains.jpg
+  foam-jet-fountain.jpg
+  foam-jet-fountains.jpg
+  floating-fountains.jpg
+  glass-water-screen-fountain.jpg
+  glass-water-fountain.jpg
+  decorative-wall-waterfall.jpg
+  stylish-wall-waterfall.jpg
+  swimming-pool-construction.jpg
+  water-park-swimming-pool.jpg
+  swimming-pool-service.jpg
+  suction-pump.jpg
+  swimming-pool-filter-1.jpg
+  swimming-pool-filter-2.jpg
+  water-park-sand-filter.jpg
+  swimming-pool-lights.jpg
+  ss-swimming-pool-light.jpg
+  underwater-pool-light.jpg
+  swimming-pool-led-light.jpg
+  artificial-rock-waterfall.jpg
+  bell-nozzle-fountain.jpg
+  flower-jet-nozzle.jpg
+  decorative-waterfall-fountain.jpg
+  designer-water-fountain.jpg
+  frp-indoor-fountain.jpg
+  water-curtain-ring-fountain.jpg
+
+Recommended image size: 600x600 pixels (square) or 600x400 (landscape)
+Format: JPG or PNG
+
+Once you add the images, refresh the website and they will appear automatically!
