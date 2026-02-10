@@ -2824,6 +2824,46 @@ ul {
     border: none;
 }
 
+/* Instagram Feed Embed */
+.insta-feed-embed {
+    margin: 40px 0 30px;
+}
+
+.insta-feed-frame {
+    max-width: 540px;
+    margin: 0 auto;
+    background: rgba(255,255,255,0.03);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+}
+
+.insta-feed-frame iframe {
+    width: 100%;
+    height: 600px;
+    border: none;
+    background: #fff;
+    border-radius: var(--radius-lg);
+}
+
+.insta-feed-note {
+    text-align: center;
+    font-size: 0.8rem;
+    color: var(--gray-600);
+    margin-top: 14px;
+}
+
+.insta-feed-note i {
+    margin-right: 4px;
+}
+
+@media (max-width: 768px) {
+    .insta-feed-frame iframe {
+        height: 480px;
+    }
+}
+
 /* Instagram CTA */
 .insta-cta {
     text-align: center;
